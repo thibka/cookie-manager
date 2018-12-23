@@ -2,7 +2,9 @@
 Simple JS Cookie Manager
 
 ## Install
+```bash
 npm i @thibka/cookiemanager
+```
 
 ## Usage
 ```javascript
