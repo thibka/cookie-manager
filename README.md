@@ -1,10 +1,10 @@
 # CookieManager
 Simple JS Cookie Manager
 
-##Install
+## Install
 npm i @thibka/cookiemanager
 
-##Usage
+## Usage
 ```javascript
 import CookieManager from 'CookieManager';
 
