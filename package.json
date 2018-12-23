@@ -1,0 +1,23 @@
+{
+  "name": "@thibka/cookiemanager",
+  "version": "1.0.0",
+  "description": "Simple JS Cookie Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thibka/cookiemanager.git"
+  },
+  "keywords": [
+    "cookie",
+    "javascript"
+  ],
+  "author": "thibka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thibka/cookiemanager/issues"
+  },
+  "homepage": "https://github.com/thibka/cookiemanager#readme"
+}

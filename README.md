@@ -8,7 +8,7 @@ npm i @thibka/cookiemanager
 
 ## Usage
 ```javascript
-import CookieManager from 'CookieManager';
+import CookieManager from '@thibka/cookiemanager';
 
 CookieManager.setCookie('myCookie', 'Hello.');
 
