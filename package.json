@@ -1,6 +1,6 @@
 {
-  "name": "@thibka/cookiemanager",
-  "version": "1.0.0",
+  "name": "@thibka/cookie-manager",
+  "version": "1.0.1",
   "description": "Simple JS Cookie Management",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thibka/cookiemanager.git"
+    "url": "git+https://github.com/thibka/cookie-manager.git"
   },
   "keywords": [
     "cookie",
@@ -16,7 +16,7 @@
   ],
   "author": "thibka",
   "bugs": {
-    "url": "https://github.com/thibka/cookiemanager/issues"
+    "url": "https://github.com/thibka/cookie-manager/issues"
   },
-  "homepage": "https://github.com/thibka/cookiemanager#readme"
+  "homepage": "https://github.com/thibka/cookie-manager#readme"
 }
