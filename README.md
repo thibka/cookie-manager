@@ -2,14 +2,20 @@
 Simple JS cookie manager
 
 ## Install
+### ES5
+```html
+<script src="https://cdn.jsdelivr.net/npm/@thibka/cookie-manager@1.0.2/cookie-manager.es5.min.js"></script>
+```
+### NPM
 ```bash
 npm i @thibka/cookie-manager
+```
+```javascript
+import CookieManager from '@thibka/cookie-manager';
 ```
 
 ## Usage
 ```javascript
-import CookieManager from '@thibka/cookie-manager';
-
 CookieManager.setCookie('myCookie', 'Hello.');
 
 // Optionnaly you can set a duration in days
