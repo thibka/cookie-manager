@@ -20,6 +20,7 @@ CookieManager.setCookie('myCookie', 'Hello.');
 
 // Optionnaly you can set a duration in days
 CookieManager.setCookie('myCookie', 'Hello.', 12); // will expire in 12 days
+CookieManager.setCookie('myCookie', 'Hello.', 1/24); // will expire in 1 hour
 
 var myCookie = CookieManager.getCookie('myCookie'); // Returns "Hello."
 ```
